@@ -1,0 +1,19 @@
+{
+  "name": "@vivotech/memory",
+  "version": "0.0.1",
+  "description": "Recollection of some pictures in all forms",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Damian Martyniak",
+  "license": "ISC",
+  "dependencies": {
+    "@vivotech/artery": "^1.0.4",
+    "@vivotech/out": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  }
+}
